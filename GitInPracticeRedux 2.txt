@@ -1,2 +1,3 @@
 GitInPracticeRedux
 PROMODAG 
+Conflit sur un autre fichier
