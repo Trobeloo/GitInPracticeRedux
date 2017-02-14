@@ -1,5 +1,5 @@
 ﻿GitInPracticeRedux
-PROMODAG 
+PROMODAG modifié
 Modif 2
 Modification pour récupérer ailleurs modifiée
 Modif concurrente 1
